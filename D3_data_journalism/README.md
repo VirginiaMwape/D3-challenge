@@ -35,4 +35,4 @@ Following is the chart with tool-tip:
 ![tooltip](images/tooltip.gif)
 
 Link to the web page :
-https://anumala89.github.io/D3-Challenge/
+https://virginiamwape.github.io/D3-challenge/
